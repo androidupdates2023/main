@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1676382783,
+      "datetime": 1676390420,
       "filename": "signed-ota_update.zip",
-      "id": "12365bbbe011231233cb22bb8f5acdc3",
+      "id": "12365ccce011231233cb22bb8f5acdc3",
       "romtype": "unofficial",
-      "size": 852227718,
+      "size": 852216473,
       "url": "https://androidupdates.s3.amazonaws.com/signed-ota_update.zip",
       "version": "18.1"
     }
